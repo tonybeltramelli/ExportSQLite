@@ -6,6 +6,10 @@ I modified the script initially written by Thomas Henlich - http://www.henlich.d
 
 The generated SQLite file can be used directly into your iOS or Android project.
 
+##Version
+
+Implemented and tested with MySQLWorkbench 5.2.36, this project need to be updated for to support newer versions
+
 ##Usage
 
  * From MySQLWorkbench, go to "Scripting -> Install Plugin/Module…";
